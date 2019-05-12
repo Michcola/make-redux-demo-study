@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/make-redux-demo-study/build/static/js/main.1cbf9a6a.chunk.js",
+    "main.js.map": "/make-redux-demo-study/build/static/js/main.1cbf9a6a.chunk.js.map",
+    "runtime~main.js": "/make-redux-demo-study/build/static/js/runtime~main.13790b4f.js",
+    "runtime~main.js.map": "/make-redux-demo-study/build/static/js/runtime~main.13790b4f.js.map",
+    "index.html": "/make-redux-demo-study/build/index.html",
+    "precache-manifest.0a571f9f632a37c9f83f3b2984de478f.js": "/make-redux-demo-study/build/precache-manifest.0a571f9f632a37c9f83f3b2984de478f.js",
+    "service-worker.js": "/make-redux-demo-study/build/service-worker.js"
+  }
+}
